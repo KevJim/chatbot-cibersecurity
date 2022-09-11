@@ -21,7 +21,7 @@ Clona el repositorio, dirigete a la carpeta del proyecto y en la raíz instala e
 
 ⚛️ Visita el siguiente link para probar el proyecto:
 
-https://chatbot-cibersecurity-9mh77vwvv-kevjim.vercel.app/
+https://chatbot-cibersecurity.vercel.app/
 
 
 ## Authors
